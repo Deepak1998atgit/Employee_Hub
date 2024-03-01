@@ -53,7 +53,7 @@ To run the Employee Hub project locally, follow these steps:
    -Install frontend dependencies: npm install
 
    
-   -Start the frontend development server: ``` npm run dev
+   -Start the frontend development server: ```bash npm run dev
 
 
 3.Running the Backend 
